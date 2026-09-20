@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secrets - jangan pernah di-commit
+.env
+kaggle.json
+*token*
+
+# OS files
+.DS_Store
+Thumbs.db
